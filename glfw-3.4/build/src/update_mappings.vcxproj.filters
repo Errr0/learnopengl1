@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\A\Documents\GitHub\learnopengl1\glfw-3.4\build\CMakeFiles\715cc2fbabee9414d28b07adeeafd834\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\A\Documents\GitHub\learnopengl1\glfw-3.4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\A\Documents\GitHub\learnopengl1\glfw-3.4\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\A\Documents\GitHub\learnopengl1\glfw-3.4\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\A\Documents\GitHub\learnopengl1\glfw-3.4\build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{26C884D3-6A51-3911-A68E-DB43E173D679}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3539B125-0460-39BF-911C-4DC50BDEE57C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

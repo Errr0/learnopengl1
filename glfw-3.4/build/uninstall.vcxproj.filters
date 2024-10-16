@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\A\Documents\GitHub\learnopengl1\glfw-3.4\build\CMakeFiles\aad4c519f99fd43a124195a596eb3b61\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\A\Documents\GitHub\learnopengl1\glfw-3.4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\A\Documents\GitHub\learnopengl1\glfw-3.4\build\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{26C884D3-6A51-3911-A68E-DB43E173D679}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
